@@ -1,0 +1,17 @@
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1Tests.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1Tests.pdb
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1.exe
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1.pdb
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csprojAssemblyReference.cache
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csproj.CoreCompileInputs.cache
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.csproj.CopyComplete
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.dll
+C:\Users\kartik\source\repos\ConsoleApp1\ConsoleApp1Tests\obj\Debug\ConsoleApp1Tests.pdb
